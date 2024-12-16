@@ -31,9 +31,21 @@ function App() {
   useEffect(() => {
     const loadData = async () => {
       try {
-        const response = await fetch('/data/verification_exp.csv');
+        // Add timestamp to URL to prevent caching
+        const timestamp = new Date().getTime();
+        const response = await fetch(`/data/verification_exp.csv?t=${timestamp}`);
         const csvText = await response.text();
+        
+        // Log raw CSV text
+        console.log("Raw CSV first 100 chars:", csvText.substring(0, 100));
+        
         const results = Papa.parse(csvText, { header: true });
+        
+        // Verify parsed data
+        if (!results.data || results.data.length === 0) {
+          console.error("No data parsed from CSV");
+          return;
+        }
         
         // Create array of indices for randomization
         const shuffledIndices = [...Array(results.data.length).keys()];
@@ -55,11 +67,13 @@ function App() {
   // Firebase functions
   const initializeParticipant = async (id) => {
     try {
+      console.log("Initializing participant:", id);
       await setDoc(doc(db, "participants", id), {
         prolificId: id,
         startTime: new Date().toISOString(),
         responses: []
       });
+      console.log("Successfully initialized participant");
       return true;
     } catch (error) {
       console.error("Error initializing participant:", error);
@@ -69,10 +83,14 @@ function App() {
 
   const saveResponse = async (response) => {
     try {
+      // Add timestamp to metadata
+      const timestamp = new Date().getTime();
       const participantRef = doc(db, "participants", prolificId);
+      
       await updateDoc(participantRef, {
         responses: arrayUnion({
           ...response,
+          _timestamp: timestamp, // Add timestamp to force update
           timestamp: new Date().toISOString()
         })
       });
@@ -320,13 +338,29 @@ function App() {
   };
 
   const handleTaskSubmit = async (ratings) => {
+    // First, verify we have all the data
+    if (!currentConversation) {
+      console.error("No current conversation data");
+      return;
+    }
+
+    // Log the entire currentConversation object
+    console.log("Full conversation object:", JSON.stringify(currentConversation));
+
+    // Explicitly construct the response with all fields
     const response = {
-      original_statement: currentConversation.original_data,
-      original_label: currentConversation.original_label,
-      pass_verification: currentConversation.pass_verification,
-      ...ratings
+      original_statement: currentConversation.original_data || '',
+      original_label: currentConversation.original_label || '',
+      pass_verification: currentConversation.pass_verification ? Number(currentConversation.pass_verification) : 0,
+      labelAlignment: ratings.labelAlignment,
+      redundantContent: ratings.redundantContent,
+      naturalFlow: ratings.naturalFlow,
+      timestamp: new Date().toISOString()
     };
-    
+
+    // Log the constructed response
+    console.log("Saving response:", JSON.stringify(response));
+
     const success = await saveResponse(response);
     if (success) {
       const newAvailable = availableItems.slice(1);
@@ -337,6 +371,10 @@ function App() {
         setStage('completed');
       } else {
         const nextConversation = studyData[newAvailable[0]];
+        if (!nextConversation) {
+          console.error("Failed to get next conversation");
+          return;
+        }
         setCurrentConversation(nextConversation);
       }
     } else {
