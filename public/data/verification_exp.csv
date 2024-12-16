@@ -1,0 +1,365 @@
+Unnamed: 0,conversation,original_data,original_label,actual_insertion_turn,pass_verification
+348,"Turn 1
+A: I've been reviewing the latest vaccination rates, and it looks like we've hit a bit of a plateau. The numbers aren't improving as quickly as they were last month.
+B: I noticed that too. It seems like our initial surge has tapered off. Maybe we need to rethink our outreach strategies to re-engage the community.
+
+Turn 2
+A: I agree. The data suggests that certain demographics, particularly younger adults, are less responsive to our current efforts. The ambitious goal to fully vaccinate the entire adult population is proving difficult. People are not returning to receive their second dose, and motivating them poses complex challenges. Perhaps we can tailor our messaging to better resonate with them.
+B: That's a good point. We could partner with local influencers and use social media more effectively to reach that audience. I'm also considering organizing more interactive community events to boost engagement.
+
+...","The ambitious goal to fully vaccinate the entire adult population is proving difficult. People are not returning to receive their second dose, and motivating them poses complex challenges.",neutral,2,1
+19,"Turn 1
+A: Hey, I'm scheduled for my second dose of the COVID-19 vaccine soon. Any tips on making it more comfortable this time?
+B: Definitely! One thing I learned is to think about which arm you get the shot in. I got it in my dominant arm the first time and regretted it because it was sore, and I sleep on that side.
+
+Turn 2
+A: Oh, that's a good point. I didn't even think about that. I keep forgetting, when it's vaccination location selection time, that I usually sleep on my left side (and arm) a lot more than my right.  Hence this 3am tweet. Did you have any other side effects?
+B: Mostly just a bit of fatigue and a mild headache. Staying hydrated and taking it easy for a day or two really helped. You'll do great!","I keep forgetting, when it's vaccination location selection time, that I usually sleep on my left side (and arm) a lot more than my right.  Hence this 3am tweet.",favoring,2,1
+74,"Turn 1
+A: Do you think we should ask our guests if they're vaccinated before the party? I just want to be sure everyone feels safe.
+B: I get your concern, but maybe we can focus on creating a warm and welcoming atmosphere. It's the holidays, and everyone should feel comfortable enjoying the season together.
+
+Turn 2
+A: True, I just want to find a balance. Maybe we can gently remind everyone to be considerate of others' health without making it a big deal.
+B: That sounds reasonable. We can encourage good practices like hand sanitizing and maybe even have some masks available, just in case anyone feels more comfortable with them. I don't ask people their vaccination status. That's a personal decision. We should all be happy and enjoy the holiday season with all of our friends and family.",I don't ask people their vaccination status. That's a personal decision. We should all be happy and enjoy the holiday season with all of our friends and family.,neutral,2,1
+25,"Turn 1
+A: I just don't get why we need to show a vaccine card to enter so many places now. It feels like they're moving the goalposts every few months.
+B: I know, I read a study recently suggesting that people who had COVID might have lasting immunity. It makes you wonder if these policies are really necessary.
+
+Turn 2
+A: Exactly! It's frustrating. One minute we're told one thing and the next, it's something completely different. It's hard to keep up and feels a bit unfair. It's crazy to treat ppl this way. Washington University came out and said natural immunity could last a lifetime. No I.D to vote but vaccine card to exercise
+B: Yeah, and if natural immunity is as strong as some studies say, maybe there's a way to balance these regulations better. It doesn't seem like a one-size-fits-all approach is working for everyone.",It's crazy to treat ppl this way. Washington University came out and said natural immunity could last a lifetime. No I.D to vote but vaccine card to exercise,against,2,1
+27,"Turn 1
+A: I'm really glad the local government is finally lifting some of these COVID-19 restrictions. It's about time we start returning to normal.
+B: I can see you're relieved. What do you think was the most problematic about the restrictions?
+
+Turn 2
+A: For me, it was the way they infringed on personal freedoms. People should have the right to make their own choices about their health and lives. Thank you! Now get rid of all mandates, including vax for state and other workers, and all mask mandates, which are unlawful and violate human rights. And they do nothing to protect anyone from any virus infection.
+B: I understand your point. But don't you think some measures were necessary to protect public health?
+
+...","Thank you! Now get rid of all mandates, including vax for state and other workers, and all mask mandates, which are unlawful and violate human rights. And they do nothing to protect anyone from any virus infection.",against,2,1
+58,"Turn 1
+A: It's interesting you bring that up. When the polio vaccine was introduced, people had already seen the devastating effects of polio firsthand, so they were more eager to get vaccinated. With COVID-19, there's a lot of misinformation that has spread very quickly, partly due to social media.
+B: That makes sense. I've noticed some patients seem hesitant even when we explain the benefits. How have you seen the vaccine's effectiveness play out in our ward?
+
+Turn 2
+A: From what I've observed, vaccinated patients who do contract COVID-19 tend to have much milder symptoms and recover faster compared to those who are unvaccinated. It's really made a significant difference in outcomes.
+B: That's reassuring to hear. I hope more people become convinced by the real-world results we're seeing every day. It's because the polio vaccine actually works. That's why there was no skepticism unlike today. And yeah can confirm fully vaccinated people die from covid. I see it everyday in the hospital I work in but you probably know more than I do. 
+
+...",It's because the polio vaccine actually works. That's why there was no skepticism unlike today. And yeah can confirm fully vaccinated people die from covid. I see it everyday in the hospital I work in but you probably know more than I do.,favoring,2,0
+17,"Turn 1
+A: Hey, I got an invitation to that big outdoor music festival this weekend. I'm excited, but a bit worried about the health risks with everything going on.Do  you think that it is safe to go to a large outdoor party where people need to show proof of vaccination  (not booster) or proof of a recent negative COVID test?
+B: Oh, I heard about that! Don't worry, they have some good safety measures in place. They require proof of vaccination or a recent negative test result, so it should be pretty safe.
+
+Turn 2
+A: That's reassuring to hear. I really want to go, but I just needed some peace of mind about the precautions.
+B: Absolutely, I think they're doing a great job with the protocols. Plus, it's outdoors, so that helps too. You'll have a blast!",Do  you think that it is safe to go to a large outdoor party where people need to show proof of vaccination  (not booster) or proof of a recent negative COVID test?,favoring,1,0
+10,"Turn 1
+A: So, I finally got my COVID-19 booster shot last week. I did have some reactions, like a sore arm and feeling a bit tired the next day.
+B: Oh, interesting. I've been thinking about getting mine too. How long did the side effects last for you?
+
+Turn 2
+A: The soreness was gone in a couple of days, and the fatigue was just that one day. Honestly, it wasn't too bad. But, you know, everyone reacts differently.
+B: That makes sense. I've heard mixed things from others as well.Thank you for your support.  My reaction to the vaccine. is not fun, by a long shot.  Some people are lucky and only have a sore arm.  But other people do have reactions.  We don't know if the booster will truly help us. Getting the shot is risky for some peole.  I wish you luck. Did you feel any better knowing you got the booster?","Thank you for your support.  My reaction to the vaccine. is not fun, by a long shot.  Some people are lucky and only have a sore arm.  But other people do have reactions.  We don't know if the booster will truly help us. Getting the shot is risky for some peole.  I wish you luck.",neutral,2,0
+9,"Turn 1
+A: I'm really nervous about getting the COVID-19 vaccine. I hate needles, and I'm not sure if it's even necessary for me.
+B: I get it, needles can be intimidating. But the process is really quick and almost painless. Plus, the vaccine has done wonders in reducing the spread of the virus and protecting people.
+
+Turn 2
+A: I still feel unsure. What if there are side effects, or what if it doesn't really make a difference?
+B: Minor side effects are possible, but they're usually mild and temporary. On the other hand, getting vaccinated not only protects you but also helps keep our whole community safer. Is a tough one for sure but has increased vaccination rates in Singapore. There is not a pandemic of smoking or not wearing seatbelts. In fact behaviour around both is improving. Vaccinating is not exactly hard. You hardly feel the prick on your arm. Every bit helps in getting us back to normal.",Is a tough one for sure but has increased vaccination rates in Singapore. There is not a pandemic of smoking or not wearing seatbelts. In fact behaviour around both is improving. Vaccinating is not exactly hard. You hardly feel the prick on your arm.,favoring,2,0
+20,"Turn 1
+A: Hey B, during my lunch break I read this article about some side effects people have experienced with the COVID-19 vaccine. It's kind of concerning because these details aren't really talked about much.
+B: Really? I haven't come across much detailed information on side effects. What did the article say?
+
+Turn 2
+A: It mentioned some potential long-term effects that haven't been widely covered. I think it's important to be fully informed before making any decisions.
+B: That's true, I've been on the fence about getting vaccinated. Thanks for sharing this.Ashley Bloomfield ""we need to ensure that COSUMERS are well informed of this rare side effect and know when to seek help."" -thank you for informing me of this serious side effect, I will say NO to the vaccine. I think I'll hold off for now until there's more information available.","Ashley Bloomfield ""we need to ensure that COSUMERS are well informed of this rare side effect and know when to seek help."" -thank you for informing me of this serious side effect, I will say NO to the vaccine.",against,2,0
+9,"Turn 1
+A: I was thinking about our weekend getaway with the gang. How are the plans coming along?
+B: They're good, but I'm a bit concerned about finding a place that can fit all of us comfortably.
+
+Turn 2
+A: Oh, don't worry about that. My place has plenty of room, and I'd love to host everyone. All the ladies can stay at my place. 
+B: Really? That would be amazing! It would make things so much easier for all of us.",All the ladies can stay at my place.,positive,2,1
+53,"Turn 1
+A: *sends meme of the main character making a ridiculous face* ""When you realize you left the oven on during a zombie apocalypse 😂"" Lmao I hope I'm not the only one who gets this
+B: Hahaha, oh man, that face! Classic. I can't believe they actually did that in the last episode. 
+
+Turn 2
+A: Right? I was dying! Also, did you catch the part where they tried to use a garden gnome as a weapon? 😂
+B: Yes! That was so random but so perfect. I love how this show just keeps surprising us with the most unexpected things.",Lmao I hope I'm not the only one who gets this,positive,1,1
+36,"Turn 1
+A: I can't believe how poorly we played today. It felt like we were just going through the motions out there. making us look like punks, disappointing We looked so unprepared and weak in front of everyone.
+B: Yeah, it was rough. I think we all felt the pressure, but we didn't handle it well. We need to figure out what went wrong and make sure it doesn't happen again.
+
+Turn 2
+A: I know. It's just frustrating because we know we're better than this. We need to work on our communication and make sure everyone is on the same page.
+B: Absolutely. Maybe we should have a team meeting and go over what we need to improve. We can't let this happen again, especially with the playoffs coming up.","making us look like punks, disappointing",negative,1,1
+102,"Turn 1
+A: I can't believe how the reviews turned out. I really thought this was the year we'd finally get that promotion.
+B: Same here. I put in so many late nights and extra projects, but it feels like none of it mattered in the end.
+
+Turn 2
+A: It's frustrating, isn't it? Sadly enough I was thinking the same. We keep hearing about how hard work pays off, but it doesn't seem to apply to us.
+B: Yeah, it's disheartening. Maybe we need to rethink our approach or have a serious talk with management about our future here.",Sadly enough I was thinking the same.,negative,2,1
+15,"Turn 1
+A: I can't believe it, I just found out I failed the exam. Holy shit broI studied so hard for it.
+B: What? No way! You put in so much effort. Are you sure there wasn't a mistake?
+
+Turn 2
+A: I double-checked the results. It's real. I feel like all that work was for nothing.
+B: I'm so sorry, A. This is really unfair. Is there anything I can do to help or support you right now?",Holy shit bro,negative,1,1
+0,"Turn 1
+A: Have you heard about the new AI that can predict human behavior with astonishing accuracy? It's like something out of a sci-fi movie.
+A: Have you heard about the new AI that can predict human behavior with astonishing accuracy? It's like something out of a sci-fi movie.
+
+Turn 2
+A: True, the ethical implications are huge. While the technology itself is groundbreaking, we need to be cautious about how it's implemented and regulated.
+B: Exactly. Innovation is great, but we have to ensure it doesn't come at the cost of our fundamental rights and freedoms.",I've also heard that intriguing but also kinda scary,negative,1,0
+3,"Turn 1
+A: Hey, I noticed you updated the link in our shared document. Was there something wrong with the original one?
+B: Oh, yeah, I realized the initial link was outdated, so I found a more recent source. Just wanted to make sure we have the most accurate information.
+
+Turn 2
+A: Got it. I was just curious if you were worried about the first one not being good enough.Imagine having to pretend you didn't edit your link. The inferiority is dripping off you.
+B: Not at all, just aiming for the best quality. Thanks for noticing, though!",Imagine having to pretend you didn't edit your link. The inferiority is dripping off you.,neutral,2,0
+9,"Turn 1
+A: We've had a few hiccups with the supply chain, but I've brought in a logistics expert to streamline our deliveries. They start next week.
+B: That's good to hear. Consistency is key, especially with our clientele. Have they worked in similar environments before?
+
+Turn 2
+A: Yes, they have experience with high-demand venues and understand the nuances of our operation. They started seeling alcohol a while ago, when she called her mafia friend to get help for the speakeasy. I think they'll be a valuable asset.
+B: Excellent. Let's make sure they get a thorough briefing on our protocols. We can't afford any slip-ups, especially with the increased foot traffic lately.","They started seeling alcohol a while ago, when she called her mafia friend to get help for the speakeasy.",neutral,2,0
+10,"Turn 1
+A: Hey, I noticed you seemed a bit upset after reading my email. Is everything okay?
+B: Honestly, I felt like your feedback was a bit harsh. It seemed like you were criticizing my work.
+
+Turn 2
+A: I'm really sorry if it came across that way. I'm sorry that's what you read because it isn't what I said. My intention was to provide some constructive feedback to help us improve the project. I didn't mean to make you feel judged.
+B: I appreciate you saying that. I guess I just took it the wrong way. Let's try to communicate more clearly moving forward.
+
+...",I'm sorry that's what you read because it isn't what I said.,negative,2,0
+19,"Turn 1
+A: I noticed that new pizza place down the street is offering some pretty aggressive deals lately. Makes me wonder if they're struggling to get customers.Papa Johns in my area basically gives away their pizza. I can smell the desperation in the store
+B: Yeah, I've seen that too. It reminds me of the bakery on Elm Street; they've been doing a lot of buy-one-get-one-free offers recently.
+
+Turn 2
+A: It's interesting how many places are trying these tactics. I guess it's tough out there for small businesses.
+B: Definitely. Even the coffee shop next to my office has started a loyalty program to keep people coming back. It's a sign of the times, I suppose.",Papa Johns in my area basically gives away their pizza. I can smell the desperation in the store,neutral,1,0
+103,"Turn 1
+A: Ugh, I can't believe we have that team meeting later. The atmosphere is always so negative, and no one seems motivated. I enjoy being at work and can't wait to come in everyday and see all my happy colleagues
+B: Oh, absolutely. I just love coming to work and seeing everyone so ""happy"" and ""enthusiastic.""
+
+Turn 2
+A: Right? It's like a black hole of energy in there. I wish we could just skip it.
+B: If only! Maybe we should start a petition for virtual meetings so we can at least mute the negativity.",I enjoy being at work and can't wait to come in everyday and see all my happy colleagues,sarcastic,1,1
+110,"Turn 1
+A: Ugh, I spent hours trying to book a vaccination appointment online, and it kept crashing. It's so frustrating!
+B: Oh, come on, it's not like you're trying to solve a Rubik's Cube blindfolded. It's just a few clicks and some patience.
+
+Turn 2
+A: Easy for you to say, you already got yours. So hard to book a jab, turn up, be jabbed, wait a bit and then get on with your life.  Why bother?I just don't get why it has to be so complicated.
+B: Trust me, once you get that shot, you'll forget all about the hassle. It's totally worth it for the peace of mind and protection.","So hard to book a jab, turn up, be jabbed, wait a bit and then get on with your life.  Why bother?",sarcastic,2,1
+2,"Turn 1
+A: You know, I was thinking about our last game night. It was so much fun, and I really felt the support from everyone when I was having a tough time with that puzzle.
+B: Oh, absolutely! I remember that. It was great how everyone jumped in to help. Moments like those really show how close-knit our group is.
+
+Turn 2
+A: Exactly. It's amazing how we all come together, no matter what. I love my friends I really value these friendships; they bring so much positivity into my life.
+B: Same here. It's rare to find such a supportive and fun group of friends. I feel really lucky to be a part of it.",I love my friends,not sarcastic,2,1
+5,"Turn 1
+A: Man, last night was wild! I can't believe we ended up at that karaoke bar. Do you remember when I tried to sing ""Bohemian Rhapsody""?
+B: Oh, I remember! You were really going for those high notes. It was hilarious. I think everyone in the bar was cheering you on.
+
+Turn 2
+A: Yeah, it was a blast. Drinks last night was a bit messy. May get some more beers tonight. Not sure though. I'm kind of tempted to do it all over again tonight. What do you think? Up for another round of chaos?
+B: Hmm, it does sound tempting. But maybe we should take it easy tonight? I don't know if my voice can handle another ""Bohemian Rhapsody"" performance so soon.",Drinks last night was a bit messy. May get some more beers tonight. Not sure though.,not sarcastic,2,1
+6,"Turn 1
+A: You know, B, I've been feeling really overwhelmed lately. Every time I try to talk to you about it, it seems like you just brush it off. I need you to understand how serious this is for me.
+B: I'm sorry if it seemed like I wasn't taking you seriously. I didn't realize how much it was affecting you. Can you tell me more about what's been going on?
+
+Turn 2
+A: It's just everything piling up—work stress, family issues, and my mental health. It's crazy how you can tell someone what you're going through 1000x and they just dismiss it I feel like I'm drowning, and when you change the subject or give me quick advice, it makes me feel even more alone.
+B: I had no idea you felt that way. I really want to be here for you. Let's sit down and talk about it properly. I promise to listen this time.",It's crazy how you can tell someone what you're going through 1000x and they just dismiss it,not sarcastic,2,1
+53,"Turn 1
+A: Wow, B, that dress is... something else. You look fantastic in that new dress.  It shows off your figure. Did you get it recently?
+B: Yes, I did! I thought it would be perfect for tonight. Do you like it?
+
+Turn 2
+A: Oh, it's definitely unique. You always have such bold taste.
+B: Thanks, A. I guess I like to stand out a bit. What about your outfit? It's very... classic.",You look fantastic in that new dress.  It shows off your figure.,sarcastic,1,0
+62,"Turn 1
+A: Ugh, I swear I never look good in any of these photos. Look at this one, my hair is all over the place.
+B: Oh, come on, everyone has those moments. You should see some of my old school pictures, they're a disaster!
+
+Turn 2
+A: Yeah, but at least you can laugh about it. I just look like a mess.It's so weird how I look ugly in photos but I also look ugly in the mirror
+B: Trust me, we all have our awkward photo phases. It's part of the charm, right?",It's so weird how I look ugly in photos but I also look ugly in the mirror,sarcastic,2,0
+97,"Turn 1
+A: You know, it's so frustrating at work. My boss always asks for our feedback, but it feels like it's just for show. None of our suggestions ever get implemented.
+B: I totally get that. I had a similar experience at my last job. They'd hold these big meetings to gather our input, but nothing ever changed. It was like talking to a wall.
+
+Turn 2
+A: Exactly! It's like, why bother asking if you're not going to listen? It makes me feel like my contributions don't matter.
+B: Yeah, it's really demotivating. I remember feeling so undervalued. I'd like to thank my current employer for making me feel accepted and valued. It's particularly nice that, whenever I have some suggestions for them, that they seriously consider them and don't just automatically put their fingers in their ears and shout 'I CAN'T HEAR YOU'. Metaphorically. It's hard to stay motivated when you know your voice isn't being heard.","I'd like to thank my current employer for making me feel accepted and valued. It's particularly nice that, whenever I have some suggestions for them, that they seriously consider them and don't just automatically put their fingers in their ears and shout 'I CAN'T HEAR YOU'. Metaphorically.",sarcastic,2,0
+13,"Turn 1
+A: I heard there might be stricter measures coming soon because of the recent spike in COVID-19 cases. It's really got me worried about our holiday plans.
+A: I heard there might be stricter measures coming soon because of the recent spike in COVID-19 cases. It's really got me worried about our holiday plans.
+
+Turn 2
+A: I know what you mean. It feels like every time we get close to some normalcy, they pull the rug out from under us.
+B: Exactly. It's hard not to feel like there's something else going on behind the scenes. I just hope we can still find a way to celebrate safely.",I just know the government is gonna lock us all down in spite because they can't have their Xmas party,not sarcastic,1,0
+17,"Turn 1
+A: We need to determine the optimal number of vaccine doses for each person in your community to ensure they are adequately protected. What are your thoughts on this, considering the residents' concerns and expectations?
+B: Many residents are worried about the effectiveness of the vaccine with just one dose. They want to be sure that they are fully protected, especially with the new variants circulating. 
+
+Turn 2
+A: That's a valid concern. The current guidelines suggest two doses for maximum efficacy. Do you think the community would be open to a two-dose schedule, even if it means more visits to the vaccination center?
+B: Yes, I believe they would be willing to commit to two doses if it means better protection. How many jabs do you want us to have? 10? 20? However, we might need to address transportation and scheduling issues to make it more convenient for everyone.",How many jabs do you want us to have? 10? 20?,not sarcastic,2,0
+10,"Turn 1
+A: Hey B, I realized I might have missed some of your suggestions about handling duplicate user profiles. Can we go over them again? I want to make sure we're on the same page and improve our system.
+
+B: Of course, A. No problem at all. I suggested implementing a more robust matching algorithm that checks for similarities in user data fields like email and phone number. This should help us identify duplicates more accurately.
+
+Turn 2
+A: That makes sense. Thanks, I didn't notice the earlier discussion. Would you consider (if you haven't done so yet) adding some indication on either page that these are the same user? Do you think we should also add a manual review step for cases where the algorithm isn't certain?
+
+B: Absolutely. A manual review step would be a good safety net to catch any edge cases the algorithm might miss. We can set up a workflow for that. Let's work on integrating these changes.
+
+...","Thanks, I didn't notice the earlier discussion. Would you consider (if you haven't done so yet) adding some indication on either page that these are the same user?",polite,2,1
+9,"Turn 1
+A: Hey B, how's your latest project coming along?
+B: It's going well, thanks. Actually, I wanted to talk to you about something I noticed in the database. Do you have a moment?
+
+Turn 2
+A: Sure, what's up?
+B: I came across an image that might need a slight update to ensure it accurately represents the specific enantiomer. The proper title of this image should be Eszopiclone.svg, since it depicts the S enantiomer. Could you change the title so I can upload an image of the racemic compound instead? Could we take a look at it together?
+
+...","The proper title of this image should be Eszopiclone.svg, since it depicts the S enantiomer. Could you change the title so I can upload an image of the racemic compound instead?",polite,2,1
+1,"Turn 1
+A: I was really surprised to hear about the new project direction during the meeting. Based on what? Don't you think a little discussion is in order before doing this? Why wasn't this discussed with the team beforehand?
+B: I understand your concern, A. I felt the change was urgent and needed to be implemented quickly to keep us on track.
+
+Turn 2
+A: But making such a significant decision without any input from the team makes us feel sidelined. We all have valuable insights that could have contributed.
+B: You're right, A. I should have communicated better and involved everyone in the decision-making process. Let's discuss how we can improve this moving forward.",Based on what? Don't you think a little discussion is in order before doing this?,impolite,1,1
+32,"Turn 1
+A: ""Hey B, I just went through your report on the new system integration. I have to say, it's incredibly detailed and well thought out. Great job!""
+B: ""Thanks, A! I really appreciate that. I wanted to make sure we covered all the bases to avoid any issues down the line.""
+
+Turn 2
+A: ""You definitely did. Very nice. How could I doubt you?This gives me a lot of confidence in our project's direction. I trust your expertise on this.""
+B: ""That means a lot, A. I'm glad to hear it. Let's keep this momentum going and make sure we hit our targets.""",Very nice. How could I doubt you?,polite,2,1
+97,"Turn 1
+A: I don't see why you're so upset about the image. It's just a satirical take on the public figure, and it's not like I'm vandalizing anything.Don't threaten me as that is not vandalism. What is wrong with a nude photo of Barack's mom?
+B: Satirical or not, it's offensive and perpetuates harmful stereotypes. You need to understand the impact it has on people who see it.
+
+Turn 2
+A: But isn't it important to challenge public figures and hold them accountable? Sometimes satire is the best way to do that.
+B: There's a difference between holding someone accountable and spreading harmful content. This image crosses the line and contributes to a toxic environment.",Don't threaten me as that is not vandalism. What is wrong with a nude photo of Barack's mom?,impolite,1,1
+6,"Turn 1
+A: B, I've noticed that the issues and contributions you've been documenting aren't following the format we agreed on. It's making it really hard to keep track of everything.
+B: I understand, A. I thought I was following the guidelines, but maybe I missed something. Can you show me where I'm going wrong?
+
+Turn 2
+A: It's not just about missing something; it's about consistency. When the format isn't followed, it disrupts the workflow for everyone involved. We need to be on the same page.
+B: I see your point. Let's go over the process again so I can make sure I'm doing it correctly from now on.","Note them where? On their talk page, or by adding them to the list you created at ArbCom so a clerk can notify them?",impolite,1,0
+10,"Turn 1
+A: Thanks for all your hard work on these projects, B. Your insights were invaluable in ensuring we adhered to company policies.
+B: I appreciate that, A. It was a challenging process, but I think we managed to cover all the bases effectively.
+
+Turn 2
+A: Absolutely. I believe we've made the right decisions moving forward. Let's touch base next week to discuss any final loose ends.
+B: Sounds good. I'll prepare a summary of our findings and send it over before our meeting. thanks for your input, it was such a pleasure interacting with you, now that the overlapping projects assessment are done, we need never interact again. projects opting out of policy, how charming, some projects are more equal than others, can i take a vote on SI project opting out of copyright vios? Thanks again, A.","thanks for your input, it was such a pleasure interacting with you, now that the overlapping projects assessment are done, we need never interact again. projects opting out of policy, how charming, some projects are more equal than others, can i take a vote on SI project opting out of copyright vios?",polite,2,0
+33,"Turn 1
+A: I've been gathering the soundtrack information from Wikipedia, but it seems like you keep finding issues with it.
+B: I understand, but I've noticed some gaps. IMDb usually has more comprehensive details for soundtracks. Maybe we should try using that instead?
+
+Turn 2
+A: Fine, IMDb might be better for this, but it feels like you're always pointing out what I'm doing wrong. What about your other suggestions?
+B: I'm not trying to undermine your efforts. I just want to make sure we have the most accurate information. Wikipedia is not IMDb, which can easily be used (and is more suited) to providing complete soundtrack listings for pretty much every movie ever made. Would you care to address any of the other points I've brought up? Let's work together to improve the other areas too.","Wikipedia is not IMDb, which can easily be used (and is more suited) to providing complete soundtrack listings for pretty much every movie ever made. Would you care to address any of the other points I've brought up?",impolite,2,0
+16,"Turn 1
+A: Look, I've tried to be polite, but this needs to stop. Can you please block me so we don't have to go through this again?Could you please block me indefinitely. If you can't then what do I need to do to get blocked indefinitely?
+B: Block you? Are you sure that's what you want? I didn't realize it was that serious.
+
+Turn 2
+A: Yes, I'm sure. It's the only way to make sure we both move on. Please, just do it.
+B: Alright, if that's what you really want. I'll block you now. Take care.",Could you please block me indefinitely. If you can't then what do I need to do to get blocked indefinitely?,impolite,1,0
+38,"Turn 1
+A: Hey B, I just replied to Esprqii's email about the project timeline. Hopefully, that clears things up.
+B: Actually, A, those emails weren't from Esprqii. Um, you know that the last couple of replies have been from someone other than Esprqii? Right? You've been responding to the wrong person.
+
+Turn 2
+A: Oh, really? I didn't realize that. Thanks for pointing it out.
+B: Yeah, you should pay more attention to the sender's name next time. It can cause confusion otherwise.","Um, you know that the last couple of replies have been from someone other than Esprqii? Right?",impolite,1,0
+35,"Turn 1
+A: I understand you want to support women's health services, and I respect that. But for me, Planned Parenthood's involvement in abortions is something I can't reconcile with my beliefs about the sanctity of life. I truly believe that and that's why I'm against Planned Parenthood.
+B: I get where you're coming from, and I appreciate you sharing your perspective. For me, it's about providing comprehensive care and support to women, especially those who might not have other options.
+
+Turn 2
+A: I know it's a complex issue, and I don't want this to come between us. I just hope you can see why it's hard for me to support an organization that performs abortions.
+B: I do see that, and I value our friendship too much to let this divide us. Maybe we can find common ground in supporting other aspects of women's health that we both agree on.",I truly believe that and that's why I'm against Planned Parenthood.,against,1,1
+55,"Turn 1
+A: I just can't help but think about the potential life that's lost with every abortion. Imagine if Beethoven's mother had chosen to abort him; the world would have missed out on so much beauty and genius.
+B: I understand where you're coming from, but isn't it also important to consider the quality of life for both the child and the mother? Sometimes, bringing a child into a difficult situation can lead to more suffering for everyone involved.
+
+Turn 2
+A: That's a fair point, but I believe that every life has inherent value and potential, regardless of the circumstances. As a former fetus I oppose We should focus on providing support to mothers so they don't feel like abortion is their only option.
+B: I agree that support systems are crucial. However, I think it's also important to respect a woman's autonomy and her right to make decisions about her own body. It's a complex issue with no easy answers.",As a former fetus I oppose,against,2,1
+24,"Turn 1
+A: ""If the government won't shut down these abortion clinics, maybe it's time for us to take matters into our own hands. Drastic times call for drastic measures.One day I'm gonna set an abortion clinic on fire. Anyone wanna join?""
+B: ""That's completely unacceptable. Resorting to violence undermines our democratic principles and only escalates the conflict. We need to focus on peaceful discourse and legal avenues to express our views.""
+
+Turn 2
+A: ""But peaceful discourse hasn't gotten us anywhere. These clinics are still operating, and innocent lives are being lost every day.""
+B: ""I understand your passion, but change comes through persistent, lawful efforts. Violence only breeds more violence and alienates potential allies. We need to work within the system to create lasting change.""",One day I'm gonna set an abortion clinic on fire. Anyone wanna join?,against,1,1
+28,"Turn 1
+A: You know, I feel incredibly lucky that my biological parents chose adoption. On my bday I'm always so grateful to my bio parents who gave me up for It gave me a chance at a life I might not have had otherwise. That's why I'm so against abortion; I feel like every potential life deserves a chance, just like I got.
+B: I understand where you're coming from, and your story is really powerful. But I think it's important to consider that not everyone is in a position to go through with a pregnancy or adoption. There are so many factors at play, and it's such a personal decision.
+
+Turn 2
+A: I get that it's complicated, and I don't want to dismiss anyone's struggles. I just wish more people would see adoption as a viable option. It can be such a positive outcome for everyone involved.
+B: Absolutely, adoption can be a wonderful solution for many. I think the key is to support people in making the best choice for their circumstances, whether that's adoption, parenting, or, if necessary, abortion. It's about ensuring they have the resources and support they need.",On my bday I'm always so grateful to my bio parents who gave me up for,against,1,1
+0,"Turn 1
+A: I just feel so lost, you know? Everyone has an opinion about what I should do, and it's making everything so much harder.
+B: I understand, A. It's a deeply personal decision, and only you can truly know what's best for you. Remember, whatever you decide, it's your choice and it's valid.
+
+Turn 2
+A: Thanks, B. It's just hard to tune out all the noise and focus on what I really want. When is abortion a responsible choice? When a woman chooses it to be
+B: Take your time, and don't rush into anything. I'm here for you, no matter what you decide. Your feelings and circumstances are what matter most.",When is abortion a responsible choice? When a woman chooses it to be,favoring,2,1
+6,"Turn 1
+A: I can't believe the VMAs are tomorrow night! I'm so excited to see Zayn perform, but I have to be up early the next day.
+B: Don't worry, A! Zayn's performance is definitely happening. You should just enjoy the show and not stress about it.
+
+Turn 2
+A: You're right, B. I guess a little loss of sleep is worth it for Zayn. tomorrow I've to wake up early so Zayn's erformance on VMA better be true otherwise u'll regret for playing with my emotions and sleep I just hope I don't regret it in the morning!
+B: Trust me, you won't. It's going to be an amazing performance. We'll have so much fun watching it together!",tomorrow I've to wake up early so Zayn's erformance on VMA better be true otherwise u'll regret for playing with my emotions and sleep,positive,2,0
+19,"Turn 1
+A: Did you catch the match last night? The defense was pretty solid, don't you think?
+B: Yeah, I did. I was impressed with how they managed to keep their formation tight, especially in the second half.
+
+Turn 2
+A: Sunday Oliseh reacts to Super Eagles goallessdraw with Tanzania via Absolutely. And the midfielders did a great job transitioning the ball forward. That one pass leading to the goal was spot on.
+B: Agreed. It was a well-coordinated effort. If they keep playing like this, we might have a good chance in the upcoming qualifiers.",Sunday Oliseh reacts to Super Eagles goallessdraw with Tanzania via,neutral,2,0
+4,"Turn 1
+A: Have you noticed how it hasn't really brightened up outside at all today?
+B: Yeah, it's been so gloomy. It's like the sun never fully came out.
+
+Turn 2
+A: It's kind of eerie, isn't it? I'm not certain that the sun actually bothered rising today. We were encased in mirky twilight all day. Makes the whole day feel off.
+B: Definitely. It's hard to stay energized when it feels like perpetual twilight.",I'm not certain that the sun actually bothered rising today. We were encased in mirky twilight all day.,neutral,2,0
+7,"Turn 1
+A: I can't believe how hilarious Michelle Obama was in that skit! I never expected her to have such great comedic timing.
+B: Right? She totally nailed it! I was in stitches when she did that bit about the vegetable garden.
+
+Turn 2
+A: And the way she interacted with the other comedians, it was like she was a natural. I have a whole new level of respect for her humor. I will never look at Michelle Obama the same way. My sides will be sore tomorrow... Worth breaking the Internet for!
+B: Same here! Who knew she could be so effortlessly funny? It really changed how I see her, in the best way possible.",I will never look at Michelle Obama the same way. My sides will be sore tomorrow... Worth breaking the Internet for!,neutral,2,0
+16,"Turn 1
+A: I think I'll have to spend most of my weekend catching up on work. Might even need to pull a late night.
+B: That sounds rough. At least there's a big football match on Sunday, if you need a break.
+
+Turn 2
+A: Oh, right! I almost forgot about that. Maybe I can catch a bit of it if I manage my time well.I just found that Barcelona and Real Madrid are playing on Sunday... I need sleeping pills...
+B: Yeah, it could be a nice distraction. Just don't let it keep you up too late!",I just found that Barcelona and Real Madrid are playing on Sunday... I need sleeping pills...,neutral,2,0
